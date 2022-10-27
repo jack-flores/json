@@ -1,0 +1,15 @@
+{
+    "songs":[
+      { "artist":"Michael Rault", "title":"Exactly What I Needed", "genre":"Rock", "year":"2022" },
+      { "artist":"Cut Worms", "title":"Veteran's Day", "genre":"Alternative", "year":"2020" },
+      { "artist":"The Lemon Twigs", "title":"These Words", "genre":"Alternative", "year":"2016" },
+      { "artist":"The Beach Boys", "title":"Sail On, Sailor", "genre":"Rock", "year":"1973" },
+      { "artist":"Vulfpeck", "title":"Mr. Finish Line", "genre":"Funk", "year":"2017" },
+      { "artist":"Drugdealer", "title":"Madison", "genre":"Alternative", "year":"2022" },
+      { "artist":"Fleetwood Mac", "title":"Prove Your Love", "genre":"Pop", "year":"1974" },
+      { "artist":"Dr. Dog", "title":"Abandoned Mansion", "genre":"Alternative", "year":"2017" },
+      { "artist":"Electric Light Orchestra", "title":"Don't Bring Me Down", "genre":"Rock", "year":"1979" },
+      { "artist":"Stevie Wonder", "title":"Isn't She Lovely", "genre":["RnB", "Soul"], "year":"1976" },
+      { "artist":"Queen", "title":"All Dead, All Dead", "genre":"Rock", "genre":"Rock", "year":"1977" },
+      { "artist":"The Beatles", "title":"For No One", "genre":"Rock", "year":"1967" }]
+  }
